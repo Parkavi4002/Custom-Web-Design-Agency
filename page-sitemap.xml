@@ -4,25 +4,25 @@
 		<loc>/</loc>
 		<lastmod>2026-03-23T12:50:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/Healthcare_resized_1920px-1024x682.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/02/Healthcare_resized_1920px-1024x682.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/Responsive-digital-marketing-website-mockup-1024x683.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/02/Responsive-digital-marketing-website-mockup-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/EduLearn_no_background-1024x682.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/02/EduLearn_no_background-1024x682.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/Tesla-Logo-PNG-Pic-300x39.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/Tesla-Logo-PNG-Pic-300x39.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/Google-Logo-PNG-Picture-300x125.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/Google-Logo-PNG-Picture-300x125.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/amazon-logo-on-transparent-background-free-vector-300x113.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/amazon-logo-on-transparent-background-free-vector-300x113.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/nvidia-transparent-nvidia-free-free-png-300x300.webp</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/nvidia-transparent-nvidia-free-free-png-300x300.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -69,16 +69,16 @@
 		<loc>/about-2/</loc>
 		<lastmod>2026-03-22T16:47:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/professional_headshot_4_2x3_ratio.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/professional_headshot_4_2x3_ratio.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/Professional-young-man-in-office-setting.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/Professional-young-man-in-office-setting.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/Smiling-professional-in-modern-office-1.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/Smiling-professional-in-modern-office-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/03/professional_headshot_2x3_ratio_woman.png</image:loc>
+			<image:loc>./wp-content/uploads/2026/03/professional_headshot_2x3_ratio_woman.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -65,7 +65,7 @@
 .pwgd-post-grid .pwgd-post-grid-item-img-wrapper .pwgd-post-grid-item-img-link {
   display: block;
   background: no-repeat center center #eeeeee;
-  background-image: url('/wp-content/plugins/portfolio-elementor/assets/img/post.png');
+  background-image: url('./wp-content/plugins/portfolio-elementor/assets/img/post.png');
   min-height: 120px;
   background-size: cover;
   position: relative;
@@ -126,7 +126,7 @@
   outline: none!important;
 }
 .pwgd-posts-filter .pwgd-post-grid-item-img-link {
-  background-image: url('/wp-content/plugins/portfolio-elementor/assets/img/product.png');
+  background-image: url('./wp-content/plugins/portfolio-elementor/assets/img/product.png');
 }
 .pwgd-product-grid .pwgd-on-sale-badge {
   position: absolute;
